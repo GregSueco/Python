@@ -5,8 +5,7 @@ def CountWords(path):
         content = f.read()
         word_count = len(content.split())
     return word_count
- 
- 
+
 path = r'C:\PythonScripts\data\opis.txt'
 if os.path.isfile(path):
     print("There are {} words in the file {}".format(CountWords(path), path))
