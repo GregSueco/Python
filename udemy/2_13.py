@@ -24,3 +24,5 @@ def parse_file(fileLocation):
 path = input("Please provide correct file location: ")
 file_path = check_file(path)
 parse_file(file_path)
+ 
+print(1)
