@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <histdata totalcount="288" listend="1">
+   <prtg-version>22.1.74.1869</prtg-version>
+   <item>
+    <datetime>10/1/2020 12:00:00 AM - 12:05:00 AM</datetime>
+    <datetime_raw>44104.9201388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:05:00 AM - 12:10:00 AM</datetime>
+    <datetime_raw>44104.9236111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:10:00 AM - 12:15:00 AM</datetime>
+    <datetime_raw>44104.9270833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:15:00 AM - 12:20:00 AM</datetime>
+    <datetime_raw>44104.9305555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:20:00 AM - 12:25:00 AM</datetime>
+    <datetime_raw>44104.9340277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:25:00 AM - 12:30:00 AM</datetime>
+    <datetime_raw>44104.9375000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:30:00 AM - 12:35:00 AM</datetime>
+    <datetime_raw>44104.9409722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:35:00 AM - 12:40:00 AM</datetime>
+    <datetime_raw>44104.9444444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:40:00 AM - 12:45:00 AM</datetime>
+    <datetime_raw>44104.9479166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:45:00 AM - 12:50:00 AM</datetime>
+    <datetime_raw>44104.9513888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:50:00 AM - 12:55:00 AM</datetime>
+    <datetime_raw>44104.9548611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:55:00 AM - 1:00:00 AM</datetime>
+    <datetime_raw>44104.9583333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:00:00 AM - 1:05:00 AM</datetime>
+    <datetime_raw>44104.9618055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:05:00 AM - 1:10:00 AM</datetime>
+    <datetime_raw>44104.9652777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:10:00 AM - 1:15:00 AM</datetime>
+    <datetime_raw>44104.9687500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:15:00 AM - 1:20:00 AM</datetime>
+    <datetime_raw>44104.9722222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:20:00 AM - 1:25:00 AM</datetime>
+    <datetime_raw>44104.9756944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:25:00 AM - 1:30:00 AM</datetime>
+    <datetime_raw>44104.9791666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:30:00 AM - 1:35:00 AM</datetime>
+    <datetime_raw>44104.9826388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:35:00 AM - 1:40:00 AM</datetime>
+    <datetime_raw>44104.9861111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:40:00 AM - 1:45:00 AM</datetime>
+    <datetime_raw>44104.9895833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:45:00 AM - 1:50:00 AM</datetime>
+    <datetime_raw>44104.9930555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:50:00 AM - 1:55:00 AM</datetime>
+    <datetime_raw>44104.9965277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:55:00 AM - 2:00:00 AM</datetime>
+    <datetime_raw>44105.0000000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:00:00 AM - 2:05:00 AM</datetime>
+    <datetime_raw>44105.0034722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:05:00 AM - 2:10:00 AM</datetime>
+    <datetime_raw>44105.0069444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:10:00 AM - 2:15:00 AM</datetime>
+    <datetime_raw>44105.0104166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:15:00 AM - 2:20:00 AM</datetime>
+    <datetime_raw>44105.0138888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:20:00 AM - 2:25:00 AM</datetime>
+    <datetime_raw>44105.0173611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:25:00 AM - 2:30:00 AM</datetime>
+    <datetime_raw>44105.0208333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:30:00 AM - 2:35:00 AM</datetime>
+    <datetime_raw>44105.0243055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:35:00 AM - 2:40:00 AM</datetime>
+    <datetime_raw>44105.0277777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:40:00 AM - 2:45:00 AM</datetime>
+    <datetime_raw>44105.0312500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:45:00 AM - 2:50:00 AM</datetime>
+    <datetime_raw>44105.0347222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:50:00 AM - 2:55:00 AM</datetime>
+    <datetime_raw>44105.0381944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:55:00 AM - 3:00:00 AM</datetime>
+    <datetime_raw>44105.0416666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:00:00 AM - 3:05:00 AM</datetime>
+    <datetime_raw>44105.0451388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:05:00 AM - 3:10:00 AM</datetime>
+    <datetime_raw>44105.0486111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:10:00 AM - 3:15:00 AM</datetime>
+    <datetime_raw>44105.0520833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:15:00 AM - 3:20:00 AM</datetime>
+    <datetime_raw>44105.0555555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:20:00 AM - 3:25:00 AM</datetime>
+    <datetime_raw>44105.0590277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:25:00 AM - 3:30:00 AM</datetime>
+    <datetime_raw>44105.0625000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:30:00 AM - 3:35:00 AM</datetime>
+    <datetime_raw>44105.0659722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:35:00 AM - 3:40:00 AM</datetime>
+    <datetime_raw>44105.0694444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:40:00 AM - 3:45:00 AM</datetime>
+    <datetime_raw>44105.0729166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:45:00 AM - 3:50:00 AM</datetime>
+    <datetime_raw>44105.0763888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:50:00 AM - 3:55:00 AM</datetime>
+    <datetime_raw>44105.0798611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:55:00 AM - 4:00:00 AM</datetime>
+    <datetime_raw>44105.0833333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:00:00 AM - 4:05:00 AM</datetime>
+    <datetime_raw>44105.0868055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:05:00 AM - 4:10:00 AM</datetime>
+    <datetime_raw>44105.0902777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:10:00 AM - 4:15:00 AM</datetime>
+    <datetime_raw>44105.0937500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:15:00 AM - 4:20:00 AM</datetime>
+    <datetime_raw>44105.0972222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:20:00 AM - 4:25:00 AM</datetime>
+    <datetime_raw>44105.1006944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:25:00 AM - 4:30:00 AM</datetime>
+    <datetime_raw>44105.1041666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:30:00 AM - 4:35:00 AM</datetime>
+    <datetime_raw>44105.1076388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:35:00 AM - 4:40:00 AM</datetime>
+    <datetime_raw>44105.1111111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:40:00 AM - 4:45:00 AM</datetime>
+    <datetime_raw>44105.1145833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:45:00 AM - 4:50:00 AM</datetime>
+    <datetime_raw>44105.1180555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:50:00 AM - 4:55:00 AM</datetime>
+    <datetime_raw>44105.1215277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:55:00 AM - 5:00:00 AM</datetime>
+    <datetime_raw>44105.1250000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:00:00 AM - 5:05:00 AM</datetime>
+    <datetime_raw>44105.1284722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:05:00 AM - 5:10:00 AM</datetime>
+    <datetime_raw>44105.1319444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:10:00 AM - 5:15:00 AM</datetime>
+    <datetime_raw>44105.1354166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:15:00 AM - 5:20:00 AM</datetime>
+    <datetime_raw>44105.1388888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:20:00 AM - 5:25:00 AM</datetime>
+    <datetime_raw>44105.1423611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:25:00 AM - 5:30:00 AM</datetime>
+    <datetime_raw>44105.1458333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:30:00 AM - 5:35:00 AM</datetime>
+    <datetime_raw>44105.1493055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:35:00 AM - 5:40:00 AM</datetime>
+    <datetime_raw>44105.1527777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:40:00 AM - 5:45:00 AM</datetime>
+    <datetime_raw>44105.1562500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:45:00 AM - 5:50:00 AM</datetime>
+    <datetime_raw>44105.1597222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:50:00 AM - 5:55:00 AM</datetime>
+    <datetime_raw>44105.1631944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:55:00 AM - 6:00:00 AM</datetime>
+    <datetime_raw>44105.1666666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:00:00 AM - 6:05:00 AM</datetime>
+    <datetime_raw>44105.1701388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:05:00 AM - 6:10:00 AM</datetime>
+    <datetime_raw>44105.1736111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:10:00 AM - 6:15:00 AM</datetime>
+    <datetime_raw>44105.1770833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:15:00 AM - 6:20:00 AM</datetime>
+    <datetime_raw>44105.1805555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:20:00 AM - 6:25:00 AM</datetime>
+    <datetime_raw>44105.1840277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:25:00 AM - 6:30:00 AM</datetime>
+    <datetime_raw>44105.1875000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:30:00 AM - 6:35:00 AM</datetime>
+    <datetime_raw>44105.1909722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:35:00 AM - 6:40:00 AM</datetime>
+    <datetime_raw>44105.1944444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:40:00 AM - 6:45:00 AM</datetime>
+    <datetime_raw>44105.1979166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:45:00 AM - 6:50:00 AM</datetime>
+    <datetime_raw>44105.2013888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:50:00 AM - 6:55:00 AM</datetime>
+    <datetime_raw>44105.2048611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:55:00 AM - 7:00:00 AM</datetime>
+    <datetime_raw>44105.2083333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:00:00 AM - 7:05:00 AM</datetime>
+    <datetime_raw>44105.2118055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:05:00 AM - 7:10:00 AM</datetime>
+    <datetime_raw>44105.2152777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:10:00 AM - 7:15:00 AM</datetime>
+    <datetime_raw>44105.2187500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:15:00 AM - 7:20:00 AM</datetime>
+    <datetime_raw>44105.2222222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:20:00 AM - 7:25:00 AM</datetime>
+    <datetime_raw>44105.2256944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:25:00 AM - 7:30:00 AM</datetime>
+    <datetime_raw>44105.2291666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:30:00 AM - 7:35:00 AM</datetime>
+    <datetime_raw>44105.2326388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:35:00 AM - 7:40:00 AM</datetime>
+    <datetime_raw>44105.2361111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:40:00 AM - 7:45:00 AM</datetime>
+    <datetime_raw>44105.2395833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:45:00 AM - 7:50:00 AM</datetime>
+    <datetime_raw>44105.2430555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:50:00 AM - 7:55:00 AM</datetime>
+    <datetime_raw>44105.2465277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:55:00 AM - 8:00:00 AM</datetime>
+    <datetime_raw>44105.2500000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:00:00 AM - 8:05:00 AM</datetime>
+    <datetime_raw>44105.2534722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:05:00 AM - 8:10:00 AM</datetime>
+    <datetime_raw>44105.2569444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:10:00 AM - 8:15:00 AM</datetime>
+    <datetime_raw>44105.2604166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:15:00 AM - 8:20:00 AM</datetime>
+    <datetime_raw>44105.2638888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:20:00 AM - 8:25:00 AM</datetime>
+    <datetime_raw>44105.2673611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:25:00 AM - 8:30:00 AM</datetime>
+    <datetime_raw>44105.2708333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:30:00 AM - 8:35:00 AM</datetime>
+    <datetime_raw>44105.2743055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:35:00 AM - 8:40:00 AM</datetime>
+    <datetime_raw>44105.2777777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:40:00 AM - 8:45:00 AM</datetime>
+    <datetime_raw>44105.2812500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:45:00 AM - 8:50:00 AM</datetime>
+    <datetime_raw>44105.2847222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:50:00 AM - 8:55:00 AM</datetime>
+    <datetime_raw>44105.2881944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:55:00 AM - 9:00:00 AM</datetime>
+    <datetime_raw>44105.2916666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:00:00 AM - 9:05:00 AM</datetime>
+    <datetime_raw>44105.2951388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:05:00 AM - 9:10:00 AM</datetime>
+    <datetime_raw>44105.2986111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:10:00 AM - 9:15:00 AM</datetime>
+    <datetime_raw>44105.3020833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:15:00 AM - 9:20:00 AM</datetime>
+    <datetime_raw>44105.3055555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:20:00 AM - 9:25:00 AM</datetime>
+    <datetime_raw>44105.3090277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:25:00 AM - 9:30:00 AM</datetime>
+    <datetime_raw>44105.3125000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:30:00 AM - 9:35:00 AM</datetime>
+    <datetime_raw>44105.3159722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:35:00 AM - 9:40:00 AM</datetime>
+    <datetime_raw>44105.3194444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:40:00 AM - 9:45:00 AM</datetime>
+    <datetime_raw>44105.3229166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:45:00 AM - 9:50:00 AM</datetime>
+    <datetime_raw>44105.3263888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:50:00 AM - 9:55:00 AM</datetime>
+    <datetime_raw>44105.3298611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:55:00 AM - 10:00:00 AM</datetime>
+    <datetime_raw>44105.3333333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:00:00 AM - 10:05:00 AM</datetime>
+    <datetime_raw>44105.3368055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:05:00 AM - 10:10:00 AM</datetime>
+    <datetime_raw>44105.3402777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:10:00 AM - 10:15:00 AM</datetime>
+    <datetime_raw>44105.3437500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:15:00 AM - 10:20:00 AM</datetime>
+    <datetime_raw>44105.3472222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:20:00 AM - 10:25:00 AM</datetime>
+    <datetime_raw>44105.3506944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:25:00 AM - 10:30:00 AM</datetime>
+    <datetime_raw>44105.3541666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:30:00 AM - 10:35:00 AM</datetime>
+    <datetime_raw>44105.3576388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:35:00 AM - 10:40:00 AM</datetime>
+    <datetime_raw>44105.3611111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:40:00 AM - 10:45:00 AM</datetime>
+    <datetime_raw>44105.3645833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:45:00 AM - 10:50:00 AM</datetime>
+    <datetime_raw>44105.3680555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:50:00 AM - 10:55:00 AM</datetime>
+    <datetime_raw>44105.3715277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:55:00 AM - 11:00:00 AM</datetime>
+    <datetime_raw>44105.3750000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:00:00 AM - 11:05:00 AM</datetime>
+    <datetime_raw>44105.3784722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:05:00 AM - 11:10:00 AM</datetime>
+    <datetime_raw>44105.3819444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:10:00 AM - 11:15:00 AM</datetime>
+    <datetime_raw>44105.3854166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:15:00 AM - 11:20:00 AM</datetime>
+    <datetime_raw>44105.3888888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:20:00 AM - 11:25:00 AM</datetime>
+    <datetime_raw>44105.3923611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:25:00 AM - 11:30:00 AM</datetime>
+    <datetime_raw>44105.3958333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:30:00 AM - 11:35:00 AM</datetime>
+    <datetime_raw>44105.3993055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:35:00 AM - 11:40:00 AM</datetime>
+    <datetime_raw>44105.4027777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:40:00 AM - 11:45:00 AM</datetime>
+    <datetime_raw>44105.4062500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:45:00 AM - 11:50:00 AM</datetime>
+    <datetime_raw>44105.4097222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:50:00 AM - 11:55:00 AM</datetime>
+    <datetime_raw>44105.4131944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:55:00 AM - 12:00:00 PM</datetime>
+    <datetime_raw>44105.4166666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:00:00 PM - 12:05:00 PM</datetime>
+    <datetime_raw>44105.4201388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:05:00 PM - 12:10:00 PM</datetime>
+    <datetime_raw>44105.4236111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:10:00 PM - 12:15:00 PM</datetime>
+    <datetime_raw>44105.4270833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:15:00 PM - 12:20:00 PM</datetime>
+    <datetime_raw>44105.4305555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:20:00 PM - 12:25:00 PM</datetime>
+    <datetime_raw>44105.4340277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:25:00 PM - 12:30:00 PM</datetime>
+    <datetime_raw>44105.4375000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:30:00 PM - 12:35:00 PM</datetime>
+    <datetime_raw>44105.4409722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:35:00 PM - 12:40:00 PM</datetime>
+    <datetime_raw>44105.4444444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:40:00 PM - 12:45:00 PM</datetime>
+    <datetime_raw>44105.4479166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:45:00 PM - 12:50:00 PM</datetime>
+    <datetime_raw>44105.4513888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:50:00 PM - 12:55:00 PM</datetime>
+    <datetime_raw>44105.4548611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 12:55:00 PM - 1:00:00 PM</datetime>
+    <datetime_raw>44105.4583333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:00:00 PM - 1:05:00 PM</datetime>
+    <datetime_raw>44105.4618055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:05:00 PM - 1:10:00 PM</datetime>
+    <datetime_raw>44105.4652777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:10:00 PM - 1:15:00 PM</datetime>
+    <datetime_raw>44105.4687500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:15:00 PM - 1:20:00 PM</datetime>
+    <datetime_raw>44105.4722222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:20:00 PM - 1:25:00 PM</datetime>
+    <datetime_raw>44105.4756944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:25:00 PM - 1:30:00 PM</datetime>
+    <datetime_raw>44105.4791666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:30:00 PM - 1:35:00 PM</datetime>
+    <datetime_raw>44105.4826388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:35:00 PM - 1:40:00 PM</datetime>
+    <datetime_raw>44105.4861111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:40:00 PM - 1:45:00 PM</datetime>
+    <datetime_raw>44105.4895833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:45:00 PM - 1:50:00 PM</datetime>
+    <datetime_raw>44105.4930555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:50:00 PM - 1:55:00 PM</datetime>
+    <datetime_raw>44105.4965277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 1:55:00 PM - 2:00:00 PM</datetime>
+    <datetime_raw>44105.5000000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:00:00 PM - 2:05:00 PM</datetime>
+    <datetime_raw>44105.5034722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:05:00 PM - 2:10:00 PM</datetime>
+    <datetime_raw>44105.5069444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:10:00 PM - 2:15:00 PM</datetime>
+    <datetime_raw>44105.5104166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:15:00 PM - 2:20:00 PM</datetime>
+    <datetime_raw>44105.5138888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:20:00 PM - 2:25:00 PM</datetime>
+    <datetime_raw>44105.5173611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:25:00 PM - 2:30:00 PM</datetime>
+    <datetime_raw>44105.5208333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:30:00 PM - 2:35:00 PM</datetime>
+    <datetime_raw>44105.5243055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:35:00 PM - 2:40:00 PM</datetime>
+    <datetime_raw>44105.5277777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:40:00 PM - 2:45:00 PM</datetime>
+    <datetime_raw>44105.5312500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:45:00 PM - 2:50:00 PM</datetime>
+    <datetime_raw>44105.5347222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:50:00 PM - 2:55:00 PM</datetime>
+    <datetime_raw>44105.5381944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 2:55:00 PM - 3:00:00 PM</datetime>
+    <datetime_raw>44105.5416666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:00:00 PM - 3:05:00 PM</datetime>
+    <datetime_raw>44105.5451388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:05:00 PM - 3:10:00 PM</datetime>
+    <datetime_raw>44105.5486111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:10:00 PM - 3:15:00 PM</datetime>
+    <datetime_raw>44105.5520833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:15:00 PM - 3:20:00 PM</datetime>
+    <datetime_raw>44105.5555555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:20:00 PM - 3:25:00 PM</datetime>
+    <datetime_raw>44105.5590277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:25:00 PM - 3:30:00 PM</datetime>
+    <datetime_raw>44105.5625000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:30:00 PM - 3:35:00 PM</datetime>
+    <datetime_raw>44105.5659722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:35:00 PM - 3:40:00 PM</datetime>
+    <datetime_raw>44105.5694444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:40:00 PM - 3:45:00 PM</datetime>
+    <datetime_raw>44105.5729166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:45:00 PM - 3:50:00 PM</datetime>
+    <datetime_raw>44105.5763888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:50:00 PM - 3:55:00 PM</datetime>
+    <datetime_raw>44105.5798611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 3:55:00 PM - 4:00:00 PM</datetime>
+    <datetime_raw>44105.5833333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:00:00 PM - 4:05:00 PM</datetime>
+    <datetime_raw>44105.5868055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:05:00 PM - 4:10:00 PM</datetime>
+    <datetime_raw>44105.5902777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:10:00 PM - 4:15:00 PM</datetime>
+    <datetime_raw>44105.5937500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:15:00 PM - 4:20:00 PM</datetime>
+    <datetime_raw>44105.5972222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:20:00 PM - 4:25:00 PM</datetime>
+    <datetime_raw>44105.6006944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:25:00 PM - 4:30:00 PM</datetime>
+    <datetime_raw>44105.6041666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:30:00 PM - 4:35:00 PM</datetime>
+    <datetime_raw>44105.6076388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:35:00 PM - 4:40:00 PM</datetime>
+    <datetime_raw>44105.6111111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:40:00 PM - 4:45:00 PM</datetime>
+    <datetime_raw>44105.6145833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:45:00 PM - 4:50:00 PM</datetime>
+    <datetime_raw>44105.6180555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:50:00 PM - 4:55:00 PM</datetime>
+    <datetime_raw>44105.6215277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 4:55:00 PM - 5:00:00 PM</datetime>
+    <datetime_raw>44105.6250000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:00:00 PM - 5:05:00 PM</datetime>
+    <datetime_raw>44105.6284722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:05:00 PM - 5:10:00 PM</datetime>
+    <datetime_raw>44105.6319444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:10:00 PM - 5:15:00 PM</datetime>
+    <datetime_raw>44105.6354166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:15:00 PM - 5:20:00 PM</datetime>
+    <datetime_raw>44105.6388888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:20:00 PM - 5:25:00 PM</datetime>
+    <datetime_raw>44105.6423611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:25:00 PM - 5:30:00 PM</datetime>
+    <datetime_raw>44105.6458333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:30:00 PM - 5:35:00 PM</datetime>
+    <datetime_raw>44105.6493055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:35:00 PM - 5:40:00 PM</datetime>
+    <datetime_raw>44105.6527777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:40:00 PM - 5:45:00 PM</datetime>
+    <datetime_raw>44105.6562500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:45:00 PM - 5:50:00 PM</datetime>
+    <datetime_raw>44105.6597222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:50:00 PM - 5:55:00 PM</datetime>
+    <datetime_raw>44105.6631944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 5:55:00 PM - 6:00:00 PM</datetime>
+    <datetime_raw>44105.6666666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:00:00 PM - 6:05:00 PM</datetime>
+    <datetime_raw>44105.6701388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:05:00 PM - 6:10:00 PM</datetime>
+    <datetime_raw>44105.6736111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:10:00 PM - 6:15:00 PM</datetime>
+    <datetime_raw>44105.6770833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:15:00 PM - 6:20:00 PM</datetime>
+    <datetime_raw>44105.6805555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:20:00 PM - 6:25:00 PM</datetime>
+    <datetime_raw>44105.6840277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:25:00 PM - 6:30:00 PM</datetime>
+    <datetime_raw>44105.6875000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:30:00 PM - 6:35:00 PM</datetime>
+    <datetime_raw>44105.6909722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:35:00 PM - 6:40:00 PM</datetime>
+    <datetime_raw>44105.6944444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:40:00 PM - 6:45:00 PM</datetime>
+    <datetime_raw>44105.6979166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:45:00 PM - 6:50:00 PM</datetime>
+    <datetime_raw>44105.7013888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:50:00 PM - 6:55:00 PM</datetime>
+    <datetime_raw>44105.7048611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 6:55:00 PM - 7:00:00 PM</datetime>
+    <datetime_raw>44105.7083333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:00:00 PM - 7:05:00 PM</datetime>
+    <datetime_raw>44105.7118055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:05:00 PM - 7:10:00 PM</datetime>
+    <datetime_raw>44105.7152777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:10:00 PM - 7:15:00 PM</datetime>
+    <datetime_raw>44105.7187500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:15:00 PM - 7:20:00 PM</datetime>
+    <datetime_raw>44105.7222222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:20:00 PM - 7:25:00 PM</datetime>
+    <datetime_raw>44105.7256944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:25:00 PM - 7:30:00 PM</datetime>
+    <datetime_raw>44105.7291666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:30:00 PM - 7:35:00 PM</datetime>
+    <datetime_raw>44105.7326388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:35:00 PM - 7:40:00 PM</datetime>
+    <datetime_raw>44105.7361111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:40:00 PM - 7:45:00 PM</datetime>
+    <datetime_raw>44105.7395833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:45:00 PM - 7:50:00 PM</datetime>
+    <datetime_raw>44105.7430555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:50:00 PM - 7:55:00 PM</datetime>
+    <datetime_raw>44105.7465277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 7:55:00 PM - 8:00:00 PM</datetime>
+    <datetime_raw>44105.7500000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:00:00 PM - 8:05:00 PM</datetime>
+    <datetime_raw>44105.7534722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:05:00 PM - 8:10:00 PM</datetime>
+    <datetime_raw>44105.7569444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:10:00 PM - 8:15:00 PM</datetime>
+    <datetime_raw>44105.7604166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:15:00 PM - 8:20:00 PM</datetime>
+    <datetime_raw>44105.7638888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:20:00 PM - 8:25:00 PM</datetime>
+    <datetime_raw>44105.7673611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:25:00 PM - 8:30:00 PM</datetime>
+    <datetime_raw>44105.7708333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:30:00 PM - 8:35:00 PM</datetime>
+    <datetime_raw>44105.7743055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:35:00 PM - 8:40:00 PM</datetime>
+    <datetime_raw>44105.7777777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:40:00 PM - 8:45:00 PM</datetime>
+    <datetime_raw>44105.7812500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:45:00 PM - 8:50:00 PM</datetime>
+    <datetime_raw>44105.7847222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:50:00 PM - 8:55:00 PM</datetime>
+    <datetime_raw>44105.7881944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 8:55:00 PM - 9:00:00 PM</datetime>
+    <datetime_raw>44105.7916666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:00:00 PM - 9:05:00 PM</datetime>
+    <datetime_raw>44105.7951388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:05:00 PM - 9:10:00 PM</datetime>
+    <datetime_raw>44105.7986111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:10:00 PM - 9:15:00 PM</datetime>
+    <datetime_raw>44105.8020833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:15:00 PM - 9:20:00 PM</datetime>
+    <datetime_raw>44105.8055555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:20:00 PM - 9:25:00 PM</datetime>
+    <datetime_raw>44105.8090277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:25:00 PM - 9:30:00 PM</datetime>
+    <datetime_raw>44105.8125000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:30:00 PM - 9:35:00 PM</datetime>
+    <datetime_raw>44105.8159722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:35:00 PM - 9:40:00 PM</datetime>
+    <datetime_raw>44105.8194444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:40:00 PM - 9:45:00 PM</datetime>
+    <datetime_raw>44105.8229166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:45:00 PM - 9:50:00 PM</datetime>
+    <datetime_raw>44105.8263888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:50:00 PM - 9:55:00 PM</datetime>
+    <datetime_raw>44105.8298611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 9:55:00 PM - 10:00:00 PM</datetime>
+    <datetime_raw>44105.8333333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:00:00 PM - 10:05:00 PM</datetime>
+    <datetime_raw>44105.8368055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:05:00 PM - 10:10:00 PM</datetime>
+    <datetime_raw>44105.8402777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:10:00 PM - 10:15:00 PM</datetime>
+    <datetime_raw>44105.8437500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:15:00 PM - 10:20:00 PM</datetime>
+    <datetime_raw>44105.8472222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:20:00 PM - 10:25:00 PM</datetime>
+    <datetime_raw>44105.8506944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:25:00 PM - 10:30:00 PM</datetime>
+    <datetime_raw>44105.8541666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:30:00 PM - 10:35:00 PM</datetime>
+    <datetime_raw>44105.8576388889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:35:00 PM - 10:40:00 PM</datetime>
+    <datetime_raw>44105.8611111111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:40:00 PM - 10:45:00 PM</datetime>
+    <datetime_raw>44105.8645833333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:45:00 PM - 10:50:00 PM</datetime>
+    <datetime_raw>44105.8680555556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:50:00 PM - 10:55:00 PM</datetime>
+    <datetime_raw>44105.8715277778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 10:55:00 PM - 11:00:00 PM</datetime>
+    <datetime_raw>44105.8750000000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:00:00 PM - 11:05:00 PM</datetime>
+    <datetime_raw>44105.8784722222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:05:00 PM - 11:10:00 PM</datetime>
+    <datetime_raw>44105.8819444444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:10:00 PM - 11:15:00 PM</datetime>
+    <datetime_raw>44105.8854166667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:15:00 PM - 11:20:00 PM</datetime>
+    <datetime_raw>44105.8888888889</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:20:00 PM - 11:25:00 PM</datetime>
+    <datetime_raw>44105.8923611111</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:25:00 PM - 11:30:00 PM</datetime>
+    <datetime_raw>44105.8958333333</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:30:00 PM - 11:35:00 PM</datetime>
+    <datetime_raw>44105.8993055556</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:35:00 PM - 11:40:00 PM</datetime>
+    <datetime_raw>44105.9027777778</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:40:00 PM - 11:45:00 PM</datetime>
+    <datetime_raw>44105.9062500000</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:45:00 PM - 11:50:00 PM</datetime>
+    <datetime_raw>44105.9097222222</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:50:00 PM - 11:55:00 PM</datetime>
+    <datetime_raw>44105.9131944444</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+   <item>
+    <datetime>10/1/2020 11:55:00 PM - 12:00:00 AM</datetime>
+    <datetime_raw>44105.9166666667</datetime_raw>
+    <value channel="Loading time" channelid="0"/>
+    <value channel="Downtime" channelid="-4"/>
+    <coverage>0 %</coverage>
+    <coverage_raw>0000000000</coverage_raw>
+   </item>
+  </histdata>
