@@ -59,18 +59,31 @@ def parse_file(file):
     Root = Tree.getroot()
     A = [] # Assign empty list
     for element in Root:
+        #elementKey=0
         #print(element)
         B = {} # Assign empty dictionary for key:value
         for i in list(element):
+                
                 element_attribute = {}
+                #attributeKey = 1
                 #element_attribute.update({i.tag: i.attrib})
                 #key = frozenset(element_attribute.items())
                 #print(key)
                 #key = i.tag + i.attrib
+                #print(elementKey,element.tag,i.tag)
+                if i.attrib:
+                   key = i.tag + '_' + i.attrib['channel'].replace(' ','_')
+
+                   #print(key)
+                   B.update({key: i.text})
+                   #print(i.tag,i.attrib)
+                   #attributeKey += 1
+                #print(,i.attrib)
                 B.update({i.tag: i.text}) # Update dictionairy
                 #print(B)
                 A.append(B) # Append B to list
-            #print(A)
+                #print(A)
+    print(A)
     df = pd.DataFrame(A) #Create new dataframe
     df.drop_duplicates(keep='first', inplace=True)
     df.reset_index(drop=True, inplace=True)
@@ -85,3 +98,4 @@ def parse_file(file):
 
 file = get_file(3354,'2021-11-01','2021-11-02')
 parse_file(file)
+
