@@ -76,7 +76,9 @@ print(candidate_list)
 filtered_list = itertools.filterfalse(lambda x: x != sum(get_factors(x)),candidate_list)
 
 print('*****')
+print(filtered_list)
 
 for each in filtered_list:
+    #print(each)
     print('Perfect number - {} has the followwing divisors that sum up to this number: {}'.format(each,get_factors(each)))
     
